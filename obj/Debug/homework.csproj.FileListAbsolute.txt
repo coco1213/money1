@@ -1,0 +1,33 @@
+c:\users\user\documents\visual studio 2015\Projects\homework\homework\bin\Debug\homework.exe.config
+c:\users\user\documents\visual studio 2015\Projects\homework\homework\obj\Debug\homework.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\homework\homework\obj\Debug\MainWindow.g.cs
+c:\users\user\documents\visual studio 2015\Projects\homework\homework\obj\Debug\ToDoITem.g.cs
+c:\users\user\documents\visual studio 2015\Projects\homework\homework\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2015\Projects\homework\homework\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\user\documents\visual studio 2015\Projects\homework\homework\obj\Debug\homework_MarkupCompile.cache
+c:\users\user\documents\visual studio 2015\Projects\homework\homework\obj\Debug\homework_MarkupCompile.lref
+c:\users\user\documents\visual studio 2015\Projects\homework\homework\bin\Debug\homework.exe
+c:\users\user\documents\visual studio 2015\Projects\homework\homework\bin\Debug\homework.pdb
+c:\users\user\documents\visual studio 2015\Projects\homework\homework\obj\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2015\Projects\homework\homework\obj\Debug\ToDoITem.baml
+c:\users\user\documents\visual studio 2015\Projects\homework\homework\obj\Debug\homework.g.resources
+c:\users\user\documents\visual studio 2015\Projects\homework\homework\obj\Debug\homework.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\homework\homework\obj\Debug\homework.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\homework\homework\obj\Debug\homework.exe
+c:\users\user\documents\visual studio 2015\Projects\homework\homework\obj\Debug\homework.pdb
+C:\Users\L406\Desktop\homework\bin\Debug\homework.exe.config
+C:\Users\L406\Desktop\homework\obj\Debug\homework.exe
+C:\Users\L406\Desktop\homework\obj\Debug\homework.pdb
+C:\Users\L406\Desktop\homework\bin\Debug\homework.exe
+C:\Users\L406\Desktop\homework\bin\Debug\homework.pdb
+C:\Users\L406\Desktop\homework\obj\Debug\homework.csprojResolveAssemblyReference.cache
+C:\Users\L406\Desktop\homework\obj\Debug\MainWindow.g.cs
+C:\Users\L406\Desktop\homework\obj\Debug\ToDoITem.g.cs
+C:\Users\L406\Desktop\homework\obj\Debug\App.g.cs
+C:\Users\L406\Desktop\homework\obj\Debug\homework_MarkupCompile.cache
+C:\Users\L406\Desktop\homework\obj\Debug\homework_MarkupCompile.lref
+C:\Users\L406\Desktop\homework\obj\Debug\MainWindow.baml
+C:\Users\L406\Desktop\homework\obj\Debug\ToDoITem.baml
+C:\Users\L406\Desktop\homework\obj\Debug\homework.g.resources
+C:\Users\L406\Desktop\homework\obj\Debug\homework.Properties.Resources.resources
+C:\Users\L406\Desktop\homework\obj\Debug\homework.csproj.GenerateResource.Cache
