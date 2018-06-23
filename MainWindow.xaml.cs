@@ -63,7 +63,7 @@ namespace homework
             foreach(ToDoITem item in ToDo.Children)
             {
                 string line ="";
-​                line += "|" + item.time +"|"+ item.ITEMnameTb +"|"+ item.OH;
+​                line += "|" +item.time.Text + "|" + item.ITEMnameTb.Text  + "|" +item.OH.ToString() ;
                 datas.Add(line);
 
             }
